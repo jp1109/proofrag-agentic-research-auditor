@@ -63,11 +63,11 @@ Verified Answer + Evidence
 - LangChain
 - LangGraph
 - Ollama
+- Groq-hosted model
 - Cloud LLM inference using Groq
 - FAISS
 - Sentence Transformers
 - PyPDF
-- Groq-hosted model
 
 ## 🎯 Why ProofRAG?
 
