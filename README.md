@@ -14,11 +14,11 @@ Upload a research PDF, ask a question, and ProofRAG will retrieve relevant evide
 
 ### Research Paper Q&A Interface
 
-![ProofRAG Interface](screenshots/proofrag-home.png)
+!![ProofRAG Home](src/screenshots/proofrag-home.png)
 
 ### Evidence-Audited Answer
 
-![ProofRAG Result](screenshots/proofrag-result.png)
+![ProofRAG Result](src/screenshots/proofrag-result.png)
 
 ## ✨ Features
 
