@@ -1,8 +1,10 @@
-from langchain_ollama import ChatOllama
+import os
+from langchain_groq import ChatGroq
 
 
 def get_llm():
-    return ChatOllama(
-        model="llama3.2:3b",
-        temperature=0
+    return ChatGroq(
+        model="qwen/qwen3-32b",
+        temperature=0,
+        api_key=os.getenv("GROQ_API_KEY")
     )
