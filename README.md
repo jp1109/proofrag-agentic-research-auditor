@@ -63,7 +63,7 @@ Verified Answer + Evidence
 - LangChain
 - LangGraph
 - Ollama
-- Llama 3.2
+- Cloud LLM inference using Groq
 - FAISS
 - Sentence Transformers
 - PyPDF
