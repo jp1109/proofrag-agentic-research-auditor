@@ -4,6 +4,22 @@ ProofRAG is an agentic RAG application that answers questions from research pape
 
 Instead of blindly trusting an LLM response, ProofRAG retrieves relevant evidence, generates an answer, evaluates its reliability, and automatically retries when confidence is low.
 
+## 🚀 Live Demo
+
+🔗 **Try ProofRAG:** [Launch ProofRAG](https://proofrag-agentic-research-auditor-5web6wd3qxhm8n37csndnq.streamlit.app/)
+
+Upload a research PDF, ask a question, and ProofRAG will retrieve relevant evidence, generate an answer, audit its reliability, and display supporting evidence.
+
+## 📸 Application Preview
+
+### Research Paper Q&A Interface
+
+![ProofRAG Interface](screenshots/proofrag-home.png)
+
+### Evidence-Audited Answer
+
+![ProofRAG Result](screenshots/proofrag-result.png)
+
 ## ✨ Features
 
 - Upload research papers in PDF format
@@ -51,6 +67,7 @@ Verified Answer + Evidence
 - FAISS
 - Sentence Transformers
 - PyPDF
+- Groq-hosted model
 
 ## 🎯 Why ProofRAG?
 
